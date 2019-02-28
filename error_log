@@ -1,0 +1,23 @@
+[29-May-2018 06:58:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dvhost/public_html/Gosalon/dashboard.php:2) in /home/dvhost/public_html/Gosalon/lib/database.php on line 3
+[29-May-2018 06:59:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dvhost/public_html/Gosalon/dashboard.php:2) in /home/dvhost/public_html/Gosalon/lib/database.php on line 3
+[05-Jun-2018 07:38:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dvhost/public_html/Gosalon/manage_category.php on line 76
+[13-Jun-2018 10:47:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dvhost/public_html/Gosalon/manage_appointment.php on line 80
+[13-Jun-2018 12:22:57 UTC] PHP Warning:  require_once(../lib/database.php): failed to open stream: No such file or directory in /home/dvhost/public_html/Gosalon/edit_appointment.php on line 2
+[13-Jun-2018 12:22:57 UTC] PHP Fatal error:  require_once(): Failed opening required '../lib/database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dvhost/public_html/Gosalon/edit_appointment.php on line 2
+[16-Jun-2018 11:49:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/gosalon/public_html/admin/manage_appointment.php on line 95
+[16-Jun-2018 11:49:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/gosalon/public_html/admin/manage_appointment.php on line 95
+[16-Jun-2018 11:49:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/gosalon/public_html/admin/manage_appointment.php on line 95
+[23-Jun-2018 08:01:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gosalon/public_html/admin/dashboard.php on line 52
+[23-Jun-2018 08:01:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gosalon/public_html/admin/dashboard.php on line 52
+[23-Jun-2018 08:01:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gosalon/public_html/admin/dashboard.php on line 52
+[23-Jun-2018 08:01:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gosalon/public_html/admin/dashboard.php on line 52
+[17-Aug-2018 13:05:00 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/kcjewellersco/public_html/admin/view_order.php on line 97
+[17-Aug-2018 13:05:02 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/kcjewellersco/public_html/admin/view_order.php on line 97
+[17-Aug-2018 13:23:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kcjewellersco/public_html/admin/view_order.php on line 127
+[17-Aug-2018 13:23:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kcjewellersco/public_html/admin/view_order.php on line 127
+[17-Aug-2018 13:23:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kcjewellersco/public_html/admin/view_order.php on line 127
+[17-Aug-2018 13:25:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kcjewellersco/public_html/admin/view_order.php on line 127
+[18-Aug-2018 06:41:47 UTC] PHP Parse error:  syntax error, unexpected '.00' (T_DNUMBER), expecting ',' or ';' in /home/kcjewellersco/public_html/admin/view_order.php on line 83
+[18-Aug-2018 06:41:50 UTC] PHP Parse error:  syntax error, unexpected '.00' (T_DNUMBER), expecting ',' or ';' in /home/kcjewellersco/public_html/admin/view_order.php on line 83
+[28-Sep-2018 11:40:40 UTC] PHP Fatal error:  Unsupported operand types in /home/kcjewellersco/public_html/admin/manage_product.php on line 73
+[28-Sep-2018 11:40:42 UTC] PHP Fatal error:  Unsupported operand types in /home/kcjewellersco/public_html/admin/manage_product.php on line 73
